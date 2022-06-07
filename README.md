@@ -107,9 +107,9 @@ Kitex is distributed under the [Apache License, version 2.0](https://github.com/
 - Email: [conduct@cloudwego.io](conduct@cloudwego.io)
 - How to become a member: [COMMUNITY MEMBERSHIP](https://github.com/cloudwego/community/blob/main/COMMUNITY_MEMBERSHIP.md)
 - Issues: [Issues](https://github.com/cloudwego/kitex/issues)
-- Lark: Scan the QR code below with [Lark](https://www.larksuite.com/zh_cn/download) to join our CloudWeGo/kitex user group.
+- Wechat: Scan the QR code below with Wechat to join our CloudWeGo/kitex user group.
 
-  ![LarkGroup](images/lark_group.png)
+  ![wechat_group](images/wechat_group_EN.png)
 
 ## Landscapes
 
