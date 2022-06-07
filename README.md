@@ -109,7 +109,7 @@ Kitex is distributed under the [Apache License, version 2.0](https://github.com/
 - Issues: [Issues](https://github.com/cloudwego/kitex/issues)
 - Wechat: Scan the QR code below with Wechat to join our CloudWeGo/kitex user group.
 
-  ![wechat_group](images/wechat_group_EN.png)
+  ![wechat_group](images/wechat_group_EN.jpg)
 
 ## Landscapes
 
